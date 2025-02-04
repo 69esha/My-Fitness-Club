@@ -3,7 +3,7 @@
 
 Welcome to **MyFitnessClub** – your ultimate destination for fitness motivation, workout plans, and healthy lifestyle tips! 🚀
 
-![MyFitnessClub Preview](https://cloud-bljt2vhbz-hack-club-bot.vercel.app/0screenshot_2025-01-30_at_5.44.59___pm.png)
+![MyFitnessClub Preview](https://cloud-glxfwpu88-hack-club-bot.vercel.app/0.png)
 
 ## 🌟 Live Demo
 Check out the website live here: **[MyFitnessClub](https://myfitnessclub.vercel.app/)**
